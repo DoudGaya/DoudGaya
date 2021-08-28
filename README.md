@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DoudGaya
-- 👀 I’m interested in | I am a web developer | Frameworks: Laravel Vuejs and Tailwind Flutter
+- 👀 I’m interested in php | JavaScript | css | html | python | Frameworks: Laravel Vuejs and Tailwind Flutter
 - 🌱 I’m currently learning Flutter
-- 💞️ I’m looking to collaborate on a very interesting laravel project
+- 💞️ I’m looking to collaborate on a very interesting php and javaScript project
 - 📫 How to reach me adaag.ad@gmail.com | +234 8062249834
 
 <!---
