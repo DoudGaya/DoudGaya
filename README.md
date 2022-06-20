@@ -1,7 +1,7 @@
 - **Abdulrahman Dauda Gaya**
 - 👋 I choose to code because its cool and fun.
 - 👽 Aliens are the best. We need an alien president 😂🤪
-- 
+- 🌳 Lets make Earth greener 
 - 🌌 Projects: chemcider | acmegrid | riCapano | and the source of truth
 - 👀 Languages I speak: JavaScript | PHP | CSS | HTML | python | dart
 - 🌹 Frameworks/libraries: Vuejs | React | Laravel | Tailwind and Flutter
