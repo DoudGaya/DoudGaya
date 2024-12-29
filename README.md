@@ -30,7 +30,6 @@
   <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git" />
   <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github" />
   <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=vercel" />
-  <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=aws" />
 </p>
 
 ## 🏆 Projects
@@ -66,16 +65,6 @@
     </td>
   </tr>
 </table>
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DoudGaya&show_icons=true&theme=dark" alt="DoudGaya's GitHub stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DoudGaya&layout=compact&theme=dark" alt="Top Langs" />
-</p>
 
 ## 🎯 Current Focus
 
