@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://x.com/doudgaya" target="_blank">
-    <img src="https://img.shields.io/twitter/follow/your-twitter-handle?style=social" alt="Twitter Follow" />
+    <img src="https://img.shields.io/twitter/follow/doudgaya?style=social" alt="Twitter Follow" />
   </a>
   <a href="https://www.linkedin.com/in/abdulrahman-dauda-gaya/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555" alt="LinkedIn" />
@@ -38,7 +38,7 @@
   <tr>
     <td align="center">
       <a href="https://stablebricks.com">
-        <img src="./assets/stablebricks.webp" width="200px" alt="Project 1" />
+        <img src="./assets/stablebricks.png" width="200px" alt="Project 1" />
         <br />
         <sub><b>STABLEBRICKS</b></sub>
       </a>
@@ -72,9 +72,5 @@
 - 👯 I'm looking to collaborate on open-source projects, innovative web applications,
 - 🤔 I'm looking for help with advanced React patterns, system design,
 - 💬 Ask me about JavaScript, React, Node.js, Python, Next.JS
-
-## 🎉 Fun Fact
-
-[Insert a fun fact about yourself, e.g., "I can solve a Rubik's cube in under 2 minutes!"]
 
 <p align="center">Thanks for visiting my profile! Feel free to reach out if you want to collaborate on a project or just say hi! 😊</p>
