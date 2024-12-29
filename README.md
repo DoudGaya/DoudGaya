@@ -29,7 +29,7 @@
   <img src="https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3" />
   <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git" />
   <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github" />
-  <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=vercel" />
+  <img src="https://img.shields.io/badge/-Vercel-black?style=flat-square&logo=vercel" />
 </p>
 
 ## 🏆 Projects
