@@ -68,7 +68,7 @@
 
 ## 🎯 Current Focus
 
-- 🌱 I'm currently learning Apollo, GraphQL, and Rust
+- 🌱 I'm currently learning, GraphQL, and Rust
 - 👯 I'm looking to collaborate on open-source projects, innovative web applications,
 - 🤔 I'm looking for help with advanced React patterns, system design,
 - 💬 Ask me about JavaScript, React, Node.js, Python, Next.JS
