@@ -1,17 +1,17 @@
 <div align="center">
-  <img src="https://github.com/DoudGaya/DoudGaya/raw/main/assets/header.png" alt="Abdulrahman Dauda" />
+  <img src="./assets/Banner-github.png" alt="Abdulrahman Dauda" />
 </div>
 
 <h1 align="center">Hi there, I'm Abdulrahman Dauda! 👋</h1>
 
 <p align="center">
-  <a href="https://twitter.com/your-twitter-handle" target="_blank">
+  <a href="https://x.com/doudgaya" target="_blank">
     <img src="https://img.shields.io/twitter/follow/your-twitter-handle?style=social" alt="Twitter Follow" />
   </a>
-  <a href="https://www.linkedin.com/in/your-linkedin-profile" target="_blank">
+  <a href="https://www.linkedin.com/in/abdulrahman-dauda-gaya/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555" alt="LinkedIn" />
   </a>
-  <a href="https://your-website.com" target="_blank">
+  <a href="https://doudgaya.xyz" target="_blank">
     <img src="https://img.shields.io/badge/Website-FF4405?style=flat-square&logo=google-chrome&logoColor=white" alt="Website" />
   </a>
 </p>
@@ -37,41 +37,41 @@
 <table>
   <tr>
     <td align="center">
-      <a href="https://github.com/yourusername/project1">
-        <img src="https://github.com/yourusername/project1/raw/main/assets/preview.png" width="300px" alt="Project 1" />
+      <a href="https://stablebricks.com">
+        <img src="./assets/stablebricks.webp" width="300px" alt="Project 1" />
         <br />
-        <sub><b>Project 1</b></sub>
+        <sub><b>STABLEBRICKS</b></sub>
       </a>
       <br />
-      <sub>Brief description of the project and its purpose.</sub>
+      <sub>Real Estate Investment App</sub>
     </td>
     <td align="center">
-      <a href="https://github.com/yourusername/project2">
-        <img src="https://github.com/yourusername/project2/raw/main/assets/preview.png" width="300px" alt="Project 2" />
+      <a href="https://ict.jg.gov.ng">
+        <img src="./assets/jictde.webp" width="300px" alt="Project 2" />
         <br />
-        <sub><b>Project 2</b></sub>
+        <sub><b>JICTDE</b></sub>
       </a>
       <br />
-      <sub>Brief description of the project and its purpose.</sub>
+      <sub>Jigawa State ICT and Digital Economy</sub>
     </td>
     <td align="center">
-      <a href="https://github.com/yourusername/project3">
-        <img src="https://github.com/yourusername/project3/raw/main/assets/preview.png" width="300px" alt="Project 3" />
+      <a href="https://nillar.com">
+        <img src="./assets/nillar.png" width="300px" alt="Project 3" />
         <br />
-        <sub><b>Project 3</b></sub>
+        <sub><b>Nillar Magazine</b></sub>
       </a>
       <br />
-      <sub>Brief description of the project and its purpose.</sub>
+      <sub>Public Magazine App</sub>
     </td>
   </tr>
 </table>
 
 ## 🎯 Current Focus
 
-- 🌱 I'm currently learning [e.g., TypeScript, GraphQL, etc.]
-- 👯 I'm looking to collaborate on [e.g., open-source projects, innovative web applications, etc.]
-- 🤔 I'm looking for help with [e.g., advanced React patterns, system design, etc.]
-- 💬 Ask me about [e.g., JavaScript, React, Node.js, etc.]
+- 🌱 I'm currently learning Apollo, GraphQL, and Rust
+- 👯 I'm looking to collaborate on open-source projects, innovative web applications,
+- 🤔 I'm looking for help with advanced React patterns, system design,
+- 💬 Ask me about JavaScript, React, Node.js, Python, Next.JS
 
 ## 🎉 Fun Fact
 
@@ -80,6 +80,6 @@
 <p align="center">Thanks for visiting my profile! Feel free to reach out if you want to collaborate on a project or just say hi! 😊</p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=DoudGaya&color=blueviolet" alt="Profile views" />
+  <img src="./assets/Banner-github.png" alt="Profile views" />
 </p>
 
