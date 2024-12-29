@@ -2,8 +2,6 @@
   <img src="./assets/Banner-github.png" alt="Abdulrahman Dauda" />
 </div>
 
-<h1 align="center">Hi there, I'm Abdulrahman Dauda! 👋</h1>
-
 <p align="center">
   <a href="https://x.com/doudgaya" target="_blank">
     <img src="https://img.shields.io/twitter/follow/doudgaya?style=social" alt="Twitter Follow" />
@@ -77,11 +75,11 @@
   </tr>
 </table>
 
-## 🎯 Current Focus
+<!-- ## 🎯 Current Focus
 
 - 🌱 I'm currently learning, GraphQL, and Rust
 - 👯 I'm looking to collaborate on open-source projects, innovative web applications,
 - 🤔 I'm looking for help with advanced React patterns, system design,
 - 💬 Ask me about JavaScript, React, Node.js, Python, Next.JS
 
-<p align="center">Thanks for visiting my profile! Feel free to reach out if you want to collaborate on a project or just say hi! 😊</p>
+<p align="center">Thanks for visiting my profile! Feel free to reach out if you want to collaborate on a project or just say hi! 😊</p> -->
