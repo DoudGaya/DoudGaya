@@ -16,7 +16,7 @@
   </a>
 </p>
 
-<p align="center">I'm a passionate developer with a keen interest in [insert your interests here, e.g., web development, data science, machine learning, etc.]. I love learning new technologies and working on exciting projects that challenge my skills and creativity.</p>
+<p align="center"> Solving For the World...</p>
 
 ## 🚀 Skills
 
