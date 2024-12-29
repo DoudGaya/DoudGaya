@@ -63,6 +63,17 @@
       <br />
       <sub>Public Magazine App</sub>
     </td>
+      <td align="center">
+      <a href="https://nillar.com">
+        <img src="./assets/metrohuts.png" width="200px" alt="Project 3" />
+        <br />
+        <sub><b>MetroHuts</b></sub>
+      </a>
+      <br />
+      <sub>Hospitality App</sub>
+    </td>
+
+    
   </tr>
 </table>
 
