@@ -38,7 +38,7 @@
   <tr>
     <td align="center">
       <a href="https://stablebricks.com">
-        <img src="./assets/stablebricks.webp" height="200px" alt="Project 1" />
+        <img src="./assets/stablebricks.webp" height="200px" width="200px" alt="Project 1" />
         <br />
         <sub><b>STABLEBRICKS</b></sub>
       </a>
@@ -47,7 +47,7 @@
     </td>
     <td align="center">
       <a href="https://ict.jg.gov.ng">
-        <img src="./assets/jictde.webp" height="200px" alt="Project 2" />
+        <img src="./assets/jictde.webp" height="200px" width="200px" alt="Project 2" />
         <br />
         <sub><b>JICTDE</b></sub>
       </a>
@@ -56,7 +56,7 @@
     </td>
     <td align="center">
       <a href="https://nillar.com">
-        <img src="./assets/nillar.png" height="200px" alt="Project 3" />
+        <img src="./assets/nillar.png" height="200px" width="200px" alt="Project 3" />
         <br />
         <sub><b>Nillar Magazine</b></sub>
       </a>
