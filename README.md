@@ -78,8 +78,3 @@
 [Insert a fun fact about yourself, e.g., "I can solve a Rubik's cube in under 2 minutes!"]
 
 <p align="center">Thanks for visiting my profile! Feel free to reach out if you want to collaborate on a project or just say hi! 😊</p>
-
-<p align="center">
-  <img src="./assets/Banner-github.png" alt="Profile views" />
-</p>
-
